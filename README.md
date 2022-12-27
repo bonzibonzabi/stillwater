@@ -26,3 +26,16 @@ War starts at 4:00 pm EST
   - You donate no troops (irritating)
   - You donate no capitol gold  (what else will you do with it?)
   - We never hear from  you in the chat. (Boring)
+
+Did not attack in 12/26/2022 war: (Many of these alredy kicked)
+- Alec Kerr
+- Jesus
+- Mortem
+- noah-128
+- Dinesh Jain
+- Anson007
+- KillerKingb
+- Bloodhound
+- diamondhead
+- John
+- advita
