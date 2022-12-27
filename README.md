@@ -8,7 +8,7 @@ A collection of CSV files that make it easier to track member status. Open an is
 
 ### War weekends
 War PREPERATION starts at 5:00pm EST Thursday  
-War starts at 4:00 pm EST
+War starts Friday at 4:00 pm EST
 - Attack ONLY your mirrors for the first 16 hours (the same number base as yours)
 - Attack ANY base in the last 8 hours
 - NOT attacking is a bad thing with us. 
