@@ -12,6 +12,7 @@ War starts Friday at 4:00 pm EST
 - Attack ONLY your mirrors for the first 16 hours (the same number base as yours)
 - Attack ANY base in the last 8 hours
 - NOT attacking is a bad thing with us. 
+- OPT out by Thursday if you know you cannot attack
   
 ### Raid weekends
 - The eariliest Raid weekends can begin is 7am UTC Friday (2:00 am EST Friday)
