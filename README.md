@@ -29,14 +29,9 @@ War starts Friday at 4:00 pm EST
   - We never hear from  you in the chat. (Boring)
 
 Did not attack in 12/26/2022 war: (Many of these already kicked)
-- Alec Kerr
-- Jesus
-- Mortem
-- noah-128
-- Dinesh Jain
-- Anson007
-- KillerKingb
-- Bloodhound
-- diamondhead
-- John
-- advita
+- Tyler A
+- NACHO
+- Iron Man
+- Eddie.03
+- ILoveYou.143
+- Tazey
