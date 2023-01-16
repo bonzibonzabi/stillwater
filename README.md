@@ -11,7 +11,7 @@ A collection of CSV files that make it easier to track member status. Open an is
 - [2022-12-27](https://github.com/bonzibonzabi/stillwater/blob/main/2022-12-27.csv)
 
 
-### War weekends
+## War weekends
 War PREPERATION starts at 5:00pm EST Thursday  
 War starts Friday at 4:00 pm EST
 - Attack ONLY your mirrors for the first 16 hours (the same number base as yours)
@@ -19,7 +19,7 @@ War starts Friday at 4:00 pm EST
 - NOT attacking is bad. 
 - OPT out by Thursday if you know you cannot attack
   
-### Raid weekends
+## Raid weekends
 - The eariliest Raid weekends can begin is 7am UTC Friday (2:00 am EST Friday)
 - Steve will start the raids, usually Friday morning. 
 - You have all weekend to complete the raids
