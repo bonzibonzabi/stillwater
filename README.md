@@ -2,16 +2,21 @@
 
 A collection of CSV files that make it easier to track member status. Open an issue or chat if you would like to see changes. All the info on this report is available here: https://developer.clashofclans.com/#/
 
+## Defense!
+[free-base-download](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JPSzhIQWU3c21nOGZJLU5iT0NTU29sZGdRd3xBQ3Jtc0ttVGN0Z3g5RG1LbHh1aDdNbnk4MzZKV0JNWC1weWVBMDdLdTZHYWZtN2tQckRLWi1TVk1FeGZxWG9uOEFUd3cyOFlBMHlUS2ZpdGpZeVVKTTVYbW5oemd3VmNsalpvRFVpaGVfVXYxQ2tiRVZfdFZETQ&q=https%3A%2F%2Flink.clashofclans.com%2Fen%3Faction%3DOpenLayout%26id%3DTH14%253AHV%253AAAAAAQAAAAI84ugcrucugvt-inmk0czd%26fbclid%3DIwAR0KzUATfYyKhPwz5KDnE_8Dz5WkPJxCOqg32nSAcxxlMEZt5xuBNESC6B8&v=DExmXd5fK8E)
+
 ### Clan stats
+- [2023-01-15](https://github.com/bonzibonzabi/stillwater/blob/main/2023-01-15.csv)
 - [2022-12-26](https://github.com/bonzibonzabi/stillwater/blob/main/2022-12-26.csv)
 - [2022-12-27](https://github.com/bonzibonzabi/stillwater/blob/main/2022-12-27.csv)
+
 
 ### War weekends
 War PREPERATION starts at 5:00pm EST Thursday  
 War starts Friday at 4:00 pm EST
 - Attack ONLY your mirrors for the first 16 hours (the same number base as yours)
 - Attack ANY base in the last 8 hours
-- NOT attacking is a bad thing with us. 
+- NOT attacking is bad. 
 - OPT out by Thursday if you know you cannot attack
   
 ### Raid weekends
@@ -19,19 +24,3 @@ War starts Friday at 4:00 pm EST
 - Steve will start the raids, usually Friday morning. 
 - You have all weekend to complete the raids
 
-### Oh no. I got kicked!
-- Its not THAT big of a deal, PLEASE COME BACK
-- You get 24 hours off, and we hope you will come back (forgiveness is a thing with us)
-- WHY did I get kicked?
-  - You did not attack in a war (really, really, bad)
-  - You donate no troops (irritating)
-  - You donate no capitol gold  (what else will you do with it?)
-  - We never hear from  you in the chat. (Boring)
-
-Did not attack in 12/26/2022 war: (Many of these already kicked)
-- Tyler A
-- NACHO
-- Iron Man
-- Eddie.03
-- ILoveYou.143
-- Tazey
