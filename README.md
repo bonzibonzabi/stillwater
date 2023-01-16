@@ -3,6 +3,7 @@
 A collection of CSV files that make it easier to track member status. Open an issue or chat if you would like to see changes. All the info on this report is available here: https://developer.clashofclans.com/#/
 
 ## Defense!
+[Lots o bases here](https://clashofclans-layouts.com/plans/th_13/anti_2_stars/)
 [free-base-download](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JPSzhIQWU3c21nOGZJLU5iT0NTU29sZGdRd3xBQ3Jtc0ttVGN0Z3g5RG1LbHh1aDdNbnk4MzZKV0JNWC1weWVBMDdLdTZHYWZtN2tQckRLWi1TVk1FeGZxWG9uOEFUd3cyOFlBMHlUS2ZpdGpZeVVKTTVYbW5oemd3VmNsalpvRFVpaGVfVXYxQ2tiRVZfdFZETQ&q=https%3A%2F%2Flink.clashofclans.com%2Fen%3Faction%3DOpenLayout%26id%3DTH14%253AHV%253AAAAAAQAAAAI84ugcrucugvt-inmk0czd%26fbclid%3DIwAR0KzUATfYyKhPwz5KDnE_8Dz5WkPJxCOqg32nSAcxxlMEZt5xuBNESC6B8&v=DExmXd5fK8E)
 
 ### Stillwater stats
